@@ -37,3 +37,5 @@ Run the script:
 
 python calculate_totals.py
 ```
+## Notion: 
+https://www.notion.so/54bcd0f1c496446481a085de6aeec846?v=5f23a76b77014913bd2132fe6b6c2965&pvs=4

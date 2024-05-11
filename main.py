@@ -142,3 +142,5 @@ grand_total, totals_by_date, all_items = calculate_totals(directory_path)
 print(f"Grand Total: ${grand_total:.2f}")
 #save_to_csv(totals_by_date, all_items, grand_total, output_csv_file, items_csv_file)
 process_receipts(directory_path)
+
+#Notion: https://www.notion.so/54bcd0f1c496446481a085de6aeec846?v=5f23a76b77014913bd2132fe6b6c2965&pvs=4

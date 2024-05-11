@@ -1,0 +1,403 @@
+(venv) telephone@telephone:~/8020/8020-db$ python main2.py
+Processed Receipt_18024.csv: Date = 2023-12-05, Total = $0.0
+Processed Receipt_3305.csv: Date = 2024-04-22, Total = $0.0
+Processed Receipt_16337.csv: Date = 2023-03-05, Total = $0.0
+Processed Receipt_28513.csv: Date = 2024-01-09, Total = $0.0
+Processed Receipt_3268.csv: Date = 2023-02-07, Total = $0.0
+Processed Receipt_13440.csv: Date = 2023-04-30, Total = $0.0
+Processed Receipt_29718.csv: Date = 2023-07-21, Total = $0.0
+Processed Receipt_7033.csv: Date = 2023-03-07, Total = $0.0
+Processed Receipt_27046.csv: Date = 2023-08-01, Total = $0.0
+Processed Receipt_1742.csv: Date = 2023-06-21, Total = $0.0
+Processed Receipt_16874.csv: Date = 2023-09-19, Total = $0.0
+Processed Receipt_18004.csv: Date = 2023-12-05, Total = $0.0
+Processed Receipt_10087.csv: Date = 2023-01-11, Total = $0.0
+Processed Receipt_19254.csv: Date = 2023-03-27, Total = $0.0
+Processed Receipt_9447.csv: Date = 2023-03-27, Total = $0.0
+Processed Receipt_994.csv: Date = 2023-01-17, Total = $0.0
+Processed Receipt_23538.csv: Date = 2023-11-24, Total = $0.0
+Processed Receipt_13148.csv: Date = 2023-08-29, Total = $0.0
+Processed Receipt_19425.csv: Date = 2023-10-17, Total = $0.0
+Processed Receipt_293.csv: Date = 2024-04-01, Total = $0.0
+Processed Receipt_5458.csv: Date = 2023-07-15, Total = $0.0
+Processed Receipt_4473.csv: Date = 2024-01-09, Total = $0.0
+Processed Receipt_9954.csv: Date = 2023-08-11, Total = $0.0
+Processed Receipt_29858.csv: Date = 2024-03-26, Total = $0.0
+Processed Receipt_7691.csv: Date = 2023-09-27, Total = $0.0
+Processed Receipt_1725.csv: Date = 2023-06-21, Total = $0.0
+Processed Receipt_17946.csv: Date = 2024-05-06, Total = $0.0
+Processed Receipt_974.csv: Date = 2024-04-05, Total = $0.0
+Processed Receipt_22820.csv: Date = 2024-01-09, Total = $0.0
+Processed Receipt_2129.csv: Date = 2023-01-29, Total = $0.0
+Processed Receipt_4293.csv: Date = 2023-02-18, Total = $0.0
+Processed Receipt_5387.csv: Date = 2023-02-27, Total = $0.0
+Processed Receipt_12273.csv: Date = 2023-04-24, Total = $0.0
+Processed Receipt_25115.csv: Date = 2024-01-30, Total = $0.0
+Processed Receipt_2157.csv: Date = 2023-08-29, Total = $0.0
+Processed Receipt_3275.csv: Date = 2023-02-07, Total = $0.0
+Processed Receipt_3507.csv: Date = 2023-09-06, Total = $0.0
+Processed Receipt_7677.csv: Date = 2023-07-29, Total = $0.0
+Processed Receipt_6984.csv: Date = 2023-07-25, Total = $0.0
+Processed Receipt_999.csv: Date = 2023-01-17, Total = $0.0
+Processed Receipt_11906.csv: Date = 2023-01-25, Total = $0.0
+Processed Receipt_18084.csv: Date = 2023-06-05, Total = $0.0
+Processed Receipt_14542.csv: Date = 2023-05-08, Total = $0.0
+Processed Receipt_8190.csv: Date = 2023-08-01, Total = $0.0
+Processed Receipt_21941.csv: Date = 2023-04-17, Total = $0.0
+Processed Receipt_12041.csv: Date = 2023-08-23, Total = $0.0
+Processed Receipt_29782.csv: Date = 2023-08-16, Total = $0.0
+Processed Receipt_19068.csv: Date = 2023-12-12, Total = $0.0
+Processed Receipt_12773.csv: Date = 2023-04-24, Total = $0.0
+Processed Receipt_6425.csv: Date = 2023-07-21, Total = $0.0
+Processed Receipt_6342.csv: Date = 2023-07-21, Total = $0.0
+Processed Receipt_7217.csv: Date = 2024-01-30, Total = $0.0
+Processed Receipt_28073.csv: Date = 2024-02-20, Total = $0.0
+Processed Receipt_10060.csv: Date = 2024-03-26, Total = $0.0
+Processed Receipt_28361.csv: Date = 2023-08-08, Total = $0.0
+Processed Receipt_14547.csv: Date = 2023-05-08, Total = $0.0
+Processed Receipt_21172.csv: Date = 2023-04-11, Total = $0.0
+Processed Receipt_25045.csv: Date = 2023-11-07, Total = $0.0
+Processed Receipt_19259.csv: Date = 2023-06-13, Total = $0.0
+Processed Receipt_11389.csv: Date = 2024-02-26, Total = $0.0
+Processed Receipt_27070.csv: Date = 2023-05-23, Total = $0.0
+Processed Receipt_12487.csv: Date = 2024-03-05, Total = $0.0
+Processed Receipt_4169.csv: Date = 2024-04-29, Total = $0.0
+Processed Receipt_12986.csv: Date = 2023-10-31, Total = $0.0
+Processed Receipt_5467.csv: Date = 2023-08-16, Total = $0.0
+Processed Receipt_25071.csv: Date = 2023-07-21, Total = $0.0
+Processed Receipt_27593.csv: Date = 2024-01-02, Total = $0.0
+Processed Receipt_25126.csv: Date = 2024-01-30, Total = $0.0
+Processed Receipt_1719.csv: Date = 2023-01-25, Total = $0.0
+Processed Receipt_8939.csv: Date = 2023-10-03, Total = $0.0
+Processed Receipt_29887.csv: Date = 2023-01-06, Total = $0.0
+Processed Receipt_7507.csv: Date = 2024-04-29, Total = $0.0
+Processed Receipt_30085.csv: Date = 2023-08-29, Total = $0.0
+Processed Receipt_28067.csv: Date = 2024-02-20, Total = $0.0
+Processed Receipt_12032.csv: Date = 2023-08-23, Total = $0.0
+Processed Receipt_9443.csv: Date = 2023-03-27, Total = $0.0
+Processed Receipt_3566.csv: Date = 2023-02-10, Total = $0.0
+Processed Receipt_25077.csv: Date = 2023-07-21, Total = $0.0
+Processed Receipt_1535.csv: Date = 2024-02-05, Total = $0.0
+Processed Receipt_29816.csv: Date = 2024-01-22, Total = $0.0
+Processed Receipt_16664.csv: Date = 2023-03-07, Total = $0.0
+Processed Receipt_8183.csv: Date = 2024-02-05, Total = $0.0
+Processed Receipt_991.csv: Date = 2023-08-23, Total = $0.0
+Processed Receipt_14839.csv: Date = 2024-04-15, Total = $0.0
+Processed Receipt_11084.csv: Date = 2024-04-01, Total = $0.0
+Processed Receipt_18396.csv: Date = 2023-09-27, Total = $0.0
+Processed Receipt_11838.csv: Date = 2023-04-17, Total = $0.0
+Processed Receipt_3520.csv: Date = 2023-09-06, Total = $0.0
+Processed Receipt_26258.csv: Date = 2023-12-19, Total = $0.0
+Processed Receipt_29716.csv: Date = 2023-07-21, Total = $0.0
+Processed Receipt_8163.csv: Date = 2024-02-05, Total = $0.0
+Processed Receipt_12049.csv: Date = 2023-10-24, Total = $0.0
+Processed Receipt_2165.csv: Date = 2023-01-29, Total = $0.0
+Processed Receipt_16376.csv: Date = 2023-05-30, Total = $0.0
+Processed Receipt_9786.csv: Date = 2023-04-04, Total = $0.0
+Processed Receipt_12767.csv: Date = 2023-04-24, Total = $0.0
+Processed Receipt_4348.csv: Date = 2024-02-26, Total = $0.0
+Processed Receipt_26055.csv: Date = 2023-05-16, Total = $0.0
+Processed Receipt_12991.csv: Date = 2023-10-31, Total = $0.0
+Processed Receipt_12040.csv: Date = 2023-10-24, Total = $0.0
+Processed Receipt_3525.csv: Date = 2024-01-02, Total = $0.0
+Processed Receipt_11910.csv: Date = 2023-01-25, Total = $0.0
+Processed Receipt_448.csv: Date = 2023-01-11, Total = $0.0
+Processed Receipt_6239.csv: Date = 2024-04-01, Total = $0.0
+Processed Receipt_28075.csv: Date = 2024-02-20, Total = $0.0
+Processed Receipt_16336.csv: Date = 2023-03-05, Total = $0.0
+Processed Receipt_23144.csv: Date = 2023-04-26, Total = $0.0
+Processed Receipt_1448.csv: Date = 2024-04-09, Total = $0.0
+Processed Receipt_21216.csv: Date = 2023-06-24, Total = $0.0
+Processed Receipt_29787.csv: Date = 2023-08-16, Total = $0.0
+Processed Receipt_1559.csv: Date = 2024-02-05, Total = $0.0
+Processed Receipt_32015.csv: Date = 2024-02-26, Total = $0.0
+Processed Receipt_14716.csv: Date = 2023-05-16, Total = $0.0
+Processed Receipt_2556.csv: Date = 2023-12-26, Total = $0.0
+Processed Receipt_253.csv: Date = 2023-06-13, Total = $0.0
+Processed Receipt_10055.csv: Date = 2024-03-26, Total = $0.0
+Processed Receipt_216.csv: Date = 2023-01-11, Total = $0.0
+Processed Receipt_28498.csv: Date = 2024-01-09, Total = $0.0
+Processed Receipt_26592.csv: Date = 2024-02-10, Total = $0.0
+Processed Receipt_3570.csv: Date = 2023-02-10, Total = $0.0
+Processed Receipt_3295.csv: Date = 2024-04-22, Total = $0.0
+Processed Receipt_21939.csv: Date = 2023-04-17, Total = $0.0
+Processed Receipt_23208.csv: Date = 2024-01-12, Total = $0.0
+Processed Receipt_16992.csv: Date = 2023-11-28, Total = $0.0
+Processed Receipt_29807.csv: Date = 2024-01-22, Total = $0.0
+Processed Receipt_29894.csv: Date = 2023-01-06, Total = $0.0
+Processed Receipt_3270.csv: Date = 2023-02-07, Total = $0.0
+Processed Receipt_27059.csv: Date = 2023-08-01, Total = $0.0
+Processed Receipt_8919.csv: Date = 2023-10-03, Total = $0.0
+Processed Receipt_14834.csv: Date = 2024-04-15, Total = $0.0
+Processed Receipt_21224.csv: Date = 2023-06-24, Total = $0.0
+Processed Receipt_8527.csv: Date = 2023-03-20, Total = $0.0
+Processed Receipt_29763.csv: Date = 2023-07-25, Total = $0.0
+Processed Receipt_23203.csv: Date = 2024-01-12, Total = $0.0
+Processed Receipt_11052.csv: Date = 2023-04-11, Total = $0.0
+Processed Receipt_2166.csv: Date = 2023-08-29, Total = $0.0
+Processed Receipt_16379.csv: Date = 2023-05-30, Total = $0.0
+Processed Receipt_4650.csv: Date = 2023-09-12, Total = $0.0
+Processed Receipt_4309.csv: Date = 2024-03-19, Total = $0.0
+Processed Receipt_4553.csv: Date = 2023-07-25, Total = $0.0
+Processed Receipt_15828.csv: Date = 2023-02-27, Total = $0.0
+Processed Receipt_14018.csv: Date = 2024-04-09, Total = $0.0
+Processed Receipt_6623.csv: Date = 2023-03-10, Total = $0.0
+Processed Receipt_4639.csv: Date = 2023-09-12, Total = $0.0
+Processed Receipt_9901.csv: Date = 2023-10-10, Total = $0.0
+Processed Receipt_5907.csv: Date = 2023-02-27, Total = $0.0
+Processed Receipt_23806.csv: Date = 2023-10-31, Total = $0.0
+Processed Receipt_6086.csv: Date = 2023-09-19, Total = $0.0
+Processed Receipt_5216.csv: Date = 2024-01-16, Total = $0.0
+Processed Receipt_8535.csv: Date = 2023-03-20, Total = $0.0
+Processed Receipt_15827.csv: Date = 2024-05-06, Total = $0.0
+Processed Receipt_12927.csv: Date = 2023-04-30, Total = $0.0
+Grand Total: 0.0
+ORANGE THUN CITRUS: $166.97000000000003
+PD WATERMELON BIN: $38.33
+SALT IODIZED ROUND: $73.46000000000001
+CHX LEG QTR SM: $2544.4000000000005
+FSH TUNA AHI LOIN: $1332.0000000000002
+SHRP P&D TO 16-20: $620.7099999999999
+FSH SALM PINK 6Z: $340.74
+QUINOA WHITE       5#: $2050.8699999999994
+CONT SOUP CMB SC12: $1691.1600000000003
+PD PPR JALAPENO CS: $243.29000000000002
+PD PPR BELL GREEN: $119.28
+PD LIMES 200CT: $187.98
+PD MUSH PORTABELLA: $96.19
+PD MUSH MEDIUM 10#: $137.85
+PD TOMATO ROMA XL: $63.4
+PD BROC CROWNS DW: $4818.6799999999985
+PD YAM JEWEL JBO: $1073.4700000000003
+Sub-Total: $47294.030000000006
+Tax: $8561.9
+Total: $38890.27
+DEBIT    6866: $27356.150000000016
+Balance: $709.5600000000001
+PD STRAWBERRY NATL: $202.17999999999998
+PD ORG ARUGULA BBY: $28.259999999999998
+PD HRB BASIL 1LB: $313.62
+CONT SOUP CMB SC16: $865.1500000000002
+CHX HAL LEG QTR SM: $2586.0000000000005
+GLOVE NITRILE MED: $581.47
+DEBIT    0445: $9089.380000000001
+CONT REC BLK 28Z: $425.34000000000003
+PD CARROT JMBO 25#: $2086.289999999999
+PD POTATO RED A #2: $3161.1800000000003
+PD CABB GREEN SACK: $810.09
+GRAPESEED OIL 100%: $770.6
+TOM PETITE DICED: $323.71000000000004
+CHILI DICED: $406.31000000000006
+PD SQUASH ITALN MD: $3564.37
+TOM SAUCE HUNTS: $473.31000000000006
+PD CUCUMBER HH BLK: $79.39
+IOU PAYMNT 6425: $-35.93
+PD MUSH LARGE 10LB: $70.14999999999999
+CHX HAL BRST JMB: $10134.4
+OIL SEASAME PURE   56Z: $40.230000000000004
+SPC PEPR BLK GRND  5LB: $178.51
+PD PPR BELL RED LG: $162.85
+PD ONION YEL JBO: $427.11
+PD CELERY BULK: $578.18
+PD BEET SK 25 LB: $369.16999999999996
+PD SPINACH CLEAN: $22.79
+PD BRUSSEL SPROUT: $1746.9599999999996
+BF INS RND XT SEL  R/W: $24697.879999999986
+GLOVE NITRILE LRG: $46.21
+CHX BRST JMB: $14257.599999999999
+DAWN HVY DTY PUMP  1GAL: $281.5900000000001
+PD CILANTRO 30CT: $23.259999999999998
+MC/VISA  6866: $4792.549999999999
+STRAINER 14"DBLE M ESH RE: $51.0
+LADLE S/S 2Z 1PC: $3.59
+SAUCE REDHOT PLSTC 1GL  1: $28.560000000000002
+VALENTINA BLACK: $53.99
+PD KALE GREEN 24CT: $180.64999999999998
+SCE SWEET CHILI    32Z: $396.81000000000006
+WINE CKING SHERRY  4/1GL: $447.96000000000015
+DAWN ORIGINAL PUMP: $164.20000000000002
+OS CRAISINS        48Z: $9.93
+OIL SESAME LKK     56Z: $18.76
+GREEN LENTILS: $20.0
+HONEY LT AMBER CQ: $167.73
+SALT KOSHER MRTON: $121.35999999999999
+PD BERRY BLUE PINT: $148.74
+PDU CELERY BAG 5CT: $20.46
+PD CAUL 1CT: $30.85
+GLV EXAM NIT BL M: $40.32
+HONEY EXTRA LT AMB: $347.03
+GLOVE VNL LG PF: $115.5
+CASH: $1191.0
+SPC GARLIC GRAN    7#: $355.06
+APRICOTS TURKISH   32Z: $13.48
+FRY PAN COATED 14I: $1395.6399999999999
+PD HRB OREGANO: $24.5
+PD HRB THYME 1LB: $30.48
+PD HRB ROSEMARY: $21.36
+PD MUSH SLICED 10#: $13.620000000000001
+PD MUSH CRIMINI 5#: $57.61999999999999
+SPC PEPPR BLK CAFE 5LB: $32.4
+PDU LEMON 5#: $51.31999999999999
+PD PINEAPPLE LGE: $412.49
+SPC GRAN ONION     5#: $364.68000000000006
+PD CUCUMBER SEL 72: $200.43
+PD TOMATO 25LB XL: $86.98
+SCR PAD MED DUTY   96CC: $6.49
+SPNGE GRN/YEL 74CC: $19.52
+TOPO CHICO MINERAL 12Z: $86.94
+CONT SOUP CMB SC24: $345.72
+CONT SOUP CMB SC8: $107.22
+FABULOSO LAVENDER  169Z: $172.15
+BF GRND 80%        R/W: $33.87
+GLV EXAM NIT BL LG: $457.79999999999984
+VINEGR WINE RED    1GL: $78.19
+DAMAGES DELI: $201.0
+PD ORG SPINCH BABY: $18.86
+PD HRB MINT: $21.15
+TOM SUNDRY JULIENN 5LB: $35.06
+PD PPR SERRANO CS: $35.510000000000005
+PD GARLIC SPAINPLD: $101.15
+CONT SOUP CMB SC32: $95.88
+BEAN BLACK: $149.45
+RED LENTILS: $24.63
+MILK COCONUT CHAOK 6/#10: $321.63
+QUINOA RED         2/5#: $22.56
+TOMATO DRIED STRIP 4/5#: $19.11
+PD HRB DILL 1LB: $56.43000000000001
+SPONGE GRN/YEL: $6.27
+GREEN SCRNG PADS: $5.55
+SYRUP MAPLE 64Z: $25.68
+PD CARROT BULK 50#: $54.46
+PD ONION RED 25#: $76.14
+PDU GINGER FR 5LBS: $49.06000000000001
+PD ASPARAGUS BAG: $100.47
+VINEGAR BLSMC 1DMD 5LTR: $49.480000000000004
+WINE CKING SAUTERN 4/1GL: $13.16
+PD RADISH SACK 25#: $88.28
+PD GRNS COLLARD 24: $64.5
+PD LEMON CH 75/115: $57.13
+PD MUSH SMALL 10LB: $56.489999999999995
+WIN MANDOLINE SET: $70.84
+CHX LEG QTR JMB: $88.80000000000001
+WRTS HICKRY SEAS: $12.84
+SYRUP MOLASSES CQ: $140.68
+SAUCE FISH SQUID   25Z: $62.94
+PD PPR HABANERO CS: $50.88
+SPC CAJUN SEASONIN 6LB: $119.22
+SP ITALIAN SEASNG  2LB: $76.17
+SCE SRIRACHA       28Z: $53.37
+REG ROLL 7313SP: $21.06
+SCRUBBER S/S 35G: $7.4
+LC 6" FRG BONING   KNIFE: $10.28
+MNDL COOK KNF 8": $16.69
+FIGS BLACK         28Z: $33.019999999999996
+SALT SEA FINE DD: $43.77
+PD BERRY RASPBERRY: $114.46999999999998
+PD LETT ROMAINE HT: $42.35
+WELCHS FRUIT SNACK 2.25OZ: $80.30000000000001
+FSH TUNA STEAK 4Z: $30.0
+PD BEAN GRN TRIMED: $38.720000000000006
+DAWN-MSHD DGRSR: $23.33
+BF INS RDN XT CH   R/W: $654.27
+PD TOMATILLO CS: $78.58
+SALT KOSHER MORTON: $35.22
+FSH COD FLT 16-32: $115.0
+PDU MELON HONEY 2C: $15.759999999999998
+SCRBBR STN/STL84CC: $8.61
+PINE CLEANER: $7.29
+TOWEL TERRY 75CT   75CT: $244.97
+RED LIGHT KIDNEY   25#: $45.2
+VINEGAR WHITE HENZ 1GL: $28.79
+PEPPER CHILI DRIED 6/5LB: $20.25
+PEPPER CHIPOTLE: $10.86
+PD CARROT BAG 10#: $36.0
+PD MELON HONEY: $41.45
+DICER 1/4IN GS     4150-A: $0.0
+IOU PAYMNT X3148: $-30.23
+PD CILANTRO 1#: $0.0
+FSH FAROE SALM 8Z: $46.25
+WAR IMM BLENDER 10: $249.99
+PD PPR PASILLA CS: $23.349999999999994
+PD ORANGE 88CT: $15.589999999999998
+JARRITOS VP GLASS  12.5Z: $22.39
+FSH SNAPPER 1-2: $51.88
+PD ORG SUPER MIX: $18.7
+HEARTS OF PALM SLC 28Z: $9.68
+PD ON GRN ICELESS: $12.89
+FSH SALM CHUM 8Z: $144.34
+SHRP EZPEEL 16-20: $222.31
+MOP CTN EXT HVY: $19.84
+FSH SCAL PR 80-120: $97.32
+PDU PPR HABANERO2#: $20.31
+PD ORANGE 113CT: $24.47
+RF SALMON COHO FLT: $82.69
+PD COCONUT YOUNG: $23.3
+SHRP P&D TO 21-25: $43.9
+MUSTARD GRY POUPON 48Z: $20.62
+PDU PINEAPPLE 2CT: $11.69
+FSH SCAL PRO 20-25: $94.17
+GP WHOLE DILL: $8.21
+CRAB DUNGE CLUSTER: $64.88
+SCE SALT/CARAMEL: $2.7099999999999995
+PD GINGER FRSH 28#: $38.83
+BEAN SMALL RED: $20.92
+PD MICRO CILANTRO: $11.67
+FSH SCAL DRY 8-9: $135.35
+PD SQUASH YLW MED: $14.3
+PD ORG HERB MIX: $0.0
+CHZ GOUDA SLICED: $0.0
+XXCHX PRTY WNG FRZ: $0.0
+XX CHX LEG QTR FRZ 40#: $24.0
+TOM PASTE ISABELLA: $0.0
+PD AVOCADO HASS HG: $42.07
+PD ONION RED 10#: $7.71
+PD APPLE FUJI72-88: $66.45
+TEA SWETND CONC: $33.89
+THERMOMETER OVEN   3506: $20.5
+ROCHER 48PC CLB PK: $16.95
+PD MANGO LARGE: $18.299999999999997
+GLOVE NITRILE SM: $5.04
+BROOM JANITOR: $12.23
+QUALITE MIX GLASS: $41.99000000000001
+CHOC/COCOA POWDER: $0.0
+NICOLE DINNER FORK DZN: $38.7
+SPRAY HEAD LL: $53.4
+NICOLE SALAD FORK  DZ: $20.8
+NICOLE TEASPOON    DZN: $18.64
+NICOLE DINNR KNIFE DZN: $17.02
+NICOLE BOUIL SPN   1DZ: $20.34
+BOUILLON 7.25Z     RE AW: $71.37
+IOU PAYMNT X1389: $-149.03
+DEBIT    9634: $200.0
+CRAWFISH 150/200CT: $21.42
+SQUID T&T CLN 3-5: $12.32
+RF SHRP U/15 GULF: $39.95
+KIK BAG MYLAR: $1.86
+PD DATE MEDJOOL 2: $11.38
+PD BERRY BLACK 6OZ: $93.17
+LID SFL 3.25-5Z: $61.71
+PD MELON CANT: $35.22
+PD BEET 5 LB: $46.62
+PD EGGPLANT 24CT: $18.05
+FSH SQUID RING: $51.37
+CUP SFL 5.5Z: $47.65
+BF SAB PSMO 5UP: $191.12
+FLOUR SACKS 1DZ: $16.96
+BEAN GARBANZO: $46.120000000000005
+VINEGAR BALSMC 3DM 2/5LTR: $21.19
+BF FEET CUT/SLICED FRZ: $64.80000000000001
+DISHER FOOD BL#16: $10.56
+TEA UNSWETND CONC: $12.07
+PD PPR JALAPENO 5#: $14.790000000000001
+BF CHUCK ROLL SEL  R/W: $0.0
+IOU PAYMNT 6984: $-294.93
+PD SHALLOT PEELED: $11.48
+PD LEMON CH 140: $34.08
+CAM RND 22QT WHT: $58.11
+QLT FRY PAN CTD    14": $136.38
+FSH SALM CHUM 6Z: $58.9
+MOP MAXICLEAN GRN: $8.74
+SHRP P&D TO 26-30: $39.9
+BLEACH AROCEP GERM 128Z: $19.99
+SPC THYME          2LB: $18.9
+VINEGAR CIDER 4%   1GL: $6.96

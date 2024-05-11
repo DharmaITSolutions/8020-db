@@ -1,0 +1,13 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 21941","Terminal 12 - 04/17/2023 4:28 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+4142117751,"WRTS HICKRY SEAS         ",1,0,$12.84
+0,Sub-Total,0,0,$12.84
+0,Tax,0,0,$1.11
+0,Total,0,0,$13.95
+0,"DEBIT    0445",0,0,$13.95
+0,Balance,0,0,$0.00

@@ -1,0 +1,13 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 29763","Terminal 0 - 07/25/2023 12:00 am"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+20770140000,"BF CHUCK ROLL SEL  R/W   ",-65.9,0,-$271.51
+0,Sub-Total,0,0,-$271.51
+0,Tax,0,0,-$23.42
+0,Total,0,0,-$294.93
+0,"IOU PAYMNT 6984",0,0,-$294.93
+0,Balance,0,0,$0.00

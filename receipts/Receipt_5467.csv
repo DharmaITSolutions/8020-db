@@ -1,0 +1,14 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 5467","Terminal 15 - 08/16/2023 11:03 am"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+2060042625,"PD CABB GREEN SACK       ",1,0,$21.48
+2060042750,"PD SQUASH ITALN MD       ",5,0,$92.25
+0,Sub-Total,0,0,$113.73
+0,Tax,0,0,$9.81
+0,Total,0,0,$123.54
+0,"DEBIT    6866",0,0,$123.54
+0,Balance,0,0,$0.00

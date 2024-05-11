@@ -1,0 +1,16 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 6984","Terminal 12 - 07/25/2023 2:22 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,-$294.93
+20798350000,"BF INS RND XT SEL  R/W   ",77.8,0,$288.64
+20798350000,"BF INS RND XT SEL  R/W   ",77.8,0,-$16.34
+7241245001,"VINEGR WINE RED    1GL   ",1,0,$10.04
+5286711735,"PD BRUSSEL SPROUT        ",1,0,$52.65
+0,Sub-Total,0,0,$334.99
+0,Tax,0,0,$28.89
+0,Total,0,0,$363.88
+0,"MC/VISA  6866",0,0,$68.95
+0,Balance,0,0,$294.93

@@ -1,0 +1,16 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 991","Terminal 11 - 08/23/2023 10:04 am"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+2060042545,"PD ONION YEL JBO         ",1,0,$22.16
+76335203030,"WINE CKING SHERRY  4/1GL ",0,1,$20.17
+5286711735,"PD BRUSSEL SPROUT        ",1,0,$79.41
+5286711735,"PD BRUSSEL SPROUT        ",0,50,-$39.70
+0,Sub-Total,0,0,$82.04
+0,Tax,0,0,$7.08
+0,Total,0,0,$89.12
+0,"DEBIT    6866",0,0,$89.12
+0,Balance,0,0,$0.00

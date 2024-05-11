@@ -1,0 +1,13 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 13148","Terminal 12 - 08/29/2023 1:33 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,-$135.13
+3382402404,"PD WATERMELON BIN        ",7,0,$55.65
+3382402404,"PD WATERMELON BIN        ",0,50,-$27.82
+0,Sub-Total,0,0,$27.83
+0,Tax,0,0,$2.40
+0,Total,0,0,$30.23
+0,Balance,0,0,$30.23

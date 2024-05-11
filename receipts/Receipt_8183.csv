@@ -1,0 +1,18 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 8183","Terminal 12 - 02/05/2024 1:25 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+82373401449,"PD ORG SUPER MIX         ",1,0,$9.35
+76069501917,"HEARTS OF PALM SLC 28Z   ",1,0,$4.84
+76069501917,"HEARTS OF PALM SLC 28Z   ",1,0,$4.84
+81383101068,"PD ON GRN ICELESS        ",1,0,$12.89
+74069565165,"PD LETT ROMAINE HT       ",1,0,$5.07
+82373401449,"PD ORG SUPER MIX         ",1,0,$9.35
+0,Sub-Total,0,0,$46.34
+0,Tax,0,0,$4.00
+0,Total,0,0,$50.34
+0,"DEBIT    6866",0,0,$50.34
+0,Balance,0,0,$0.00

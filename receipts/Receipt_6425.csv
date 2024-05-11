@@ -1,0 +1,15 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 6425","Terminal 12 - 07/21/2023 5:00 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,-$55.24
+2060056266,"PD CUCUMBER HH BLK       ",1,0,$28.20
+2060056266,"PD CUCUMBER HH BLK       ",0,25,-$7.05
+2060042760,"PD TOMATO 25LB XL        ",1,0,$23.85
+2060042760,"PD TOMATO 25LB XL        ",0,50,-$11.92
+0,Sub-Total,0,0,$33.08
+0,Tax,0,0,$2.85
+0,Total,0,0,$35.93
+0,Balance,0,0,$35.93

@@ -1,0 +1,13 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 11389","Terminal 12 - 02/26/2024 8:05 am"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,-$149.03
+76069502533,"TOM PETITE DICED         ",0,1,$27.53
+0,Sub-Total,0,0,$27.53
+0,Tax,0,0,$2.37
+0,Total,0,0,$29.90
+0,"DEBIT    6866",0,0,-$119.13
+0,Balance,0,0,$149.03

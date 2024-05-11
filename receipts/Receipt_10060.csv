@@ -1,0 +1,15 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 10060","Terminal 13 - 03/26/2024 2:28 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+76069557320,"SPC GARLIC GRAN    7#    ",1,0,$25.23
+7127038559,"QUINOA WHITE       5#    ",0,3,$69.12
+1282200904,"OIL SEASAME PURE   56Z   ",1,0,$19.80
+0,Sub-Total,0,0,$114.15
+0,Tax,0,0,$9.85
+0,Total,0,0,$124.00
+0,"DEBIT    6866",0,0,$124.00
+0,Balance,0,0,$0.00

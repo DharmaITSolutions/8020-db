@@ -1,0 +1,22 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 7217","Terminal 12 - 01/30/2024 11:12 am"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+20798350000,"BF INS RND XT SEL  R/W   ",79.8,0,$258.55
+20798350000,"BF INS RND XT SEL  R/W   ",79.8,0,-$15.96
+20776700000,"CHX LEG QTR SM           ",40,0,$24.40
+20776700000,"CHX LEG QTR SM           ",40,0,$24.40
+20776700000,"CHX LEG QTR SM           ",40,0,$24.40
+20772320000,"CHX BRST JMB             ",40,0,$57.20
+20772320000,"CHX BRST JMB             ",40,0,$57.20
+20772320000,"CHX BRST JMB             ",40,0,$57.20
+20772320000,"CHX BRST JMB             ",40,0,$57.20
+20772320000,"CHX BRST JMB             ",40,0,$57.20
+0,Sub-Total,0,0,$601.79
+0,Tax,0,0,$51.90
+0,Total,0,0,$653.69
+0,"DEBIT    6866",0,0,$653.69
+0,Balance,0,0,$0.00

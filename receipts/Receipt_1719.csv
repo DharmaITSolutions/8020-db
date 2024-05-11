@@ -1,0 +1,14 @@
+"Restaurant Depot 707 ,  "
+,"EIGHTYTWENTY LLC"
+,"2511S.,GEORGIA"
+,"AMARILLO, TX 791019999           "
+"Invoice 1719","Terminal 13 - 01/25/2023 5:19 pm"
+UPC,Description,UnitQty,CaseQty,Price
+-2,"Previous Balance",0,0,$0.00
+2700039061,"TOM SAUCE HUNTS          ",0,1,$36.34
+76069502533,"TOM PETITE DICED         ",0,1,$28.48
+0,Sub-Total,0,0,$64.82
+0,Tax,0,0,$5.59
+0,Total,0,0,$70.41
+0,"DEBIT    0445",0,0,$70.41
+0,Balance,0,0,$0.00

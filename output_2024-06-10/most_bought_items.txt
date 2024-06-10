@@ -1,0 +1,251 @@
+Most Bought Items and Their Costs:
+===================================
+Item: CHX BRST JMB, Count: 228, Total Cost: $14257.60
+Item: BF INS RND XT SEL  R/W, Count: 177, Total Cost: $24697.88
+Item: PD SQUASH ITALN MD, Count: 172, Total Cost: $3564.37
+Item: PD BROC CROWNS DW, Count: 171, Total Cost: $4818.68
+Item: CHX HAL BRST JMB, Count: 164, Total Cost: $10134.40
+Item: Sub-Total, Count: 152, Total Cost: $99570.53
+Item: Tax, Count: 152, Total Cost: $8561.90
+Item: Total, Count: 152, Total Cost: $108132.43
+Item: Balance, Count: 152, Total Cost: $709.56
+Item: PD CARROT JMBO 25#, Count: 125, Total Cost: $2086.29
+Item: PD POTATO RED A #2, Count: 118, Total Cost: $3161.18
+Item: CHX LEG QTR SM, Count: 106, Total Cost: $2544.40
+Item: CHX HAL LEG QTR SM, Count: 94, Total Cost: $2586.00
+Item: DEBIT    6866, Count: 88, Total Cost: $67197.98
+Item: QUINOA WHITE       5#, Count: 85, Total Cost: $2050.87
+Item: CONT SOUP CMB SC12, Count: 64, Total Cost: $1691.16
+Item: PD YAM JEWEL JBO, Count: 61, Total Cost: $1073.47
+Item: PD CABB GREEN SACK, Count: 48, Total Cost: $810.09
+Item: PD BRUSSEL SPROUT, Count: 47, Total Cost: $1746.96
+Item: DEBIT    0445, Count: 43, Total Cost: $31046.12
+Item: FRY PAN COATED 14I, Count: 37, Total Cost: $1395.64
+Item: CONT SOUP CMB SC16, Count: 30, Total Cost: $865.15
+Item: PD PINEAPPLE LGE, Count: 24, Total Cost: $412.49
+Item: PD HRB BASIL 1LB, Count: 23, Total Cost: $313.62
+Item: WINE CKING SHERRY  4/1GL, Count: 23, Total Cost: $447.96
+Item: PD CELERY BULK, Count: 22, Total Cost: $578.18
+Item: PD STRAWBERRY NATL, Count: 21, Total Cost: $202.18
+Item: PD ONION YEL JBO, Count: 20, Total Cost: $427.11
+Item: PD BEET SK 25 LB, Count: 19, Total Cost: $369.17
+Item: GLOVE NITRILE MED, Count: 16, Total Cost: $581.47
+Item: SPC GRAN ONION     5#, Count: 16, Total Cost: $364.68
+Item: SHRP P&D TO 16-20, Count: 15, Total Cost: $620.71
+Item: SPC GARLIC GRAN    7#, Count: 15, Total Cost: $355.06
+Item: TOM SAUCE HUNTS, Count: 14, Total Cost: $473.31
+Item: PD BERRY RASPBERRY, Count: 14, Total Cost: $114.47
+Item: TOM PETITE DICED, Count: 13, Total Cost: $323.71
+Item: PD KALE GREEN 24CT, Count: 13, Total Cost: $180.65
+Item: SCE SWEET CHILI    32Z, Count: 13, Total Cost: $396.81
+Item: DAWN ORIGINAL PUMP, Count: 13, Total Cost: $164.20
+Item: GLV EXAM NIT BL LG, Count: 13, Total Cost: $457.80
+Item: PD HRB DILL 1LB, Count: 13, Total Cost: $56.43
+Item: FSH TUNA AHI LOIN, Count: 12, Total Cost: $1332.00
+Item: CHILI DICED, Count: 12, Total Cost: $406.31
+Item: MC/VISA  6866, Count: 12, Total Cost: $8297.89
+Item: PD CUCUMBER SEL 72, Count: 12, Total Cost: $200.43
+Item: PD MUSH MEDIUM 10#, Count: 11, Total Cost: $137.85
+Item: DAWN HVY DTY PUMP  1GAL, Count: 11, Total Cost: $281.59
+Item: PD TOMATO 25LB XL, Count: 11, Total Cost: $86.98
+Item: PD MUSH PORTABELLA, Count: 10, Total Cost: $96.19
+Item: CONT REC BLK 28Z, Count: 10, Total Cost: $425.34
+Item: PD MUSH CRIMINI 5#, Count: 10, Total Cost: $57.62
+Item: BEAN BLACK, Count: 10, Total Cost: $149.45
+Item: PD PPR BELL GREEN, Count: 9, Total Cost: $119.28
+Item: GRAPESEED OIL 100%, Count: 9, Total Cost: $770.60
+Item: HONEY EXTRA LT AMB, Count: 9, Total Cost: $347.03
+Item: CONT SOUP CMB SC24, Count: 9, Total Cost: $345.72
+Item: PD HRB MINT, Count: 9, Total Cost: $21.15
+Item: TOWEL TERRY 75CT   75CT, Count: 9, Total Cost: $244.97
+Item: FSH SALM PINK 6Z, Count: 8, Total Cost: $340.74
+Item: PD CUCUMBER HH BLK, Count: 8, Total Cost: $79.39
+Item: SPC PEPR BLK GRND  5LB, Count: 8, Total Cost: $178.51
+Item: PD BERRY BLUE PINT, Count: 8, Total Cost: $148.74
+Item: VINEGR WINE RED    1GL, Count: 8, Total Cost: $78.19
+Item: DAMAGES DELI, Count: 8, Total Cost: $201.00
+Item: PD GARLIC SPAINPLD, Count: 8, Total Cost: $101.15
+Item: PDU GINGER FR 5LBS, Count: 8, Total Cost: $49.06
+Item: SYRUP MOLASSES CQ, Count: 8, Total Cost: $140.68
+Item: WELCHS FRUIT SNACK 2.25OZ, Count: 8, Total Cost: $80.30
+Item: PD PPR JALAPENO CS, Count: 7, Total Cost: $243.29
+Item: PD PPR BELL RED LG, Count: 7, Total Cost: $162.85
+Item: PD HRB OREGANO, Count: 7, Total Cost: $24.50
+Item: PD HRB THYME 1LB, Count: 7, Total Cost: $30.48
+Item: PD CARROT BULK 50#, Count: 7, Total Cost: $54.46
+Item: ORANGE THUN CITRUS, Count: 6, Total Cost: $166.97
+Item: PD TOMATO ROMA XL, Count: 6, Total Cost: $63.40
+Item: PD ORG ARUGULA BBY, Count: 6, Total Cost: $28.26
+Item: PDU LEMON 5#, Count: 6, Total Cost: $51.32
+Item: PD ONION RED 25#, Count: 6, Total Cost: $76.14
+Item: PD MUSH SMALL 10LB, Count: 6, Total Cost: $56.49
+Item: PD TOMATILLO CS, Count: 6, Total Cost: $78.58
+Item: SALT IODIZED ROUND, Count: 5, Total Cost: $73.46
+Item: PD LIMES 200CT, Count: 5, Total Cost: $187.98
+Item: SALT KOSHER MRTON, Count: 5, Total Cost: $121.36
+Item: PD CAUL 1CT, Count: 5, Total Cost: $30.85
+Item: GLOVE VNL LG PF, Count: 5, Total Cost: $115.50
+Item: FABULOSO LAVENDER  169Z, Count: 5, Total Cost: $172.15
+Item: MILK COCONUT CHAOK 6/#10, Count: 5, Total Cost: $321.63
+Item: PD RADISH SACK 25#, Count: 5, Total Cost: $88.28
+Item: PD GRNS COLLARD 24, Count: 5, Total Cost: $64.50
+Item: SPC CAJUN SEASONIN 6LB, Count: 5, Total Cost: $119.22
+Item: BF INS RDN XT CH   R/W, Count: 5, Total Cost: $654.27
+Item: PD MELON HONEY, Count: 5, Total Cost: $41.45
+Item: PD BERRY BLACK 6OZ, Count: 5, Total Cost: $93.17
+Item: PD WATERMELON BIN, Count: 4, Total Cost: $38.33
+Item: PD MUSH LARGE 10LB, Count: 4, Total Cost: $70.15
+Item: PD SPINACH CLEAN, Count: 4, Total Cost: $22.79
+Item: CONT SOUP CMB SC8, Count: 4, Total Cost: $107.22
+Item: PD ORG SPINCH BABY, Count: 4, Total Cost: $18.86
+Item: PD ASPARAGUS BAG, Count: 4, Total Cost: $100.47
+Item: PD LETT ROMAINE HT, Count: 4, Total Cost: $42.35
+Item: SHRP EZPEEL 16-20, Count: 4, Total Cost: $222.31
+Item: RF SALMON COHO FLT, Count: 4, Total Cost: $82.69
+Item: XX CHX LEG QTR FRZ 40#, Count: 4, Total Cost: $24.00
+Item: PD AVOCADO HASS HG, Count: 4, Total Cost: $42.07
+Item: QUALITE MIX GLASS, Count: 4, Total Cost: $41.99
+Item: GLOVE NITRILE LRG, Count: 3, Total Cost: $46.21
+Item: PD CILANTRO 30CT, Count: 3, Total Cost: $23.26
+Item: VALENTINA BLACK, Count: 3, Total Cost: $53.99
+Item: GREEN LENTILS, Count: 3, Total Cost: $20.00
+Item: HONEY LT AMBER CQ, Count: 3, Total Cost: $167.73
+Item: CASH, Count: 3, Total Cost: $1191.00
+Item: PD HRB ROSEMARY, Count: 3, Total Cost: $21.36
+Item: TOPO CHICO MINERAL 12Z, Count: 3, Total Cost: $86.94
+Item: TOM SUNDRY JULIENN 5LB, Count: 3, Total Cost: $35.06
+Item: VINEGAR BLSMC 1DMD 5LTR, Count: 3, Total Cost: $49.48
+Item: PD LEMON CH 75/115, Count: 3, Total Cost: $57.13
+Item: CHX LEG QTR JMB, Count: 3, Total Cost: $88.80
+Item: SAUCE FISH SQUID   25Z, Count: 3, Total Cost: $62.94
+Item: SP ITALIAN SEASNG  2LB, Count: 3, Total Cost: $76.17
+Item: PD BEAN GRN TRIMED, Count: 3, Total Cost: $38.72
+Item: FSH SALM CHUM 8Z, Count: 3, Total Cost: $144.34
+Item: NICOLE DINNER FORK DZN, Count: 3, Total Cost: $38.70
+Item: BOUILLON 7.25Z     RE AW, Count: 3, Total Cost: $71.37
+Item: PD MELON CANT, Count: 3, Total Cost: $35.22
+Item: BEAN GARBANZO, Count: 3, Total Cost: $46.12
+Item: BF FEET CUT/SLICED FRZ, Count: 3, Total Cost: $64.80
+Item: BF CHUCK ROLL SEL  R/W, Count: 3, Total Cost: $0.00
+Item: CAM RND 22QT WHT, Count: 3, Total Cost: $58.11
+Item: QLT FRY PAN CTD    14", Count: 3, Total Cost: $136.38
+Item: IOU PAYMNT 6425, Count: 2, Total Cost: $-35.93
+Item: OIL SEASAME PURE   56Z, Count: 2, Total Cost: $40.23
+Item: SAUCE REDHOT PLSTC 1GL  1, Count: 2, Total Cost: $28.56
+Item: PDU CELERY BAG 5CT, Count: 2, Total Cost: $20.46
+Item: GLV EXAM NIT BL M, Count: 2, Total Cost: $40.32
+Item: PD MUSH SLICED 10#, Count: 2, Total Cost: $13.62
+Item: PD PPR SERRANO CS, Count: 2, Total Cost: $35.51
+Item: CONT SOUP CMB SC32, Count: 2, Total Cost: $95.88
+Item: WINE CKING SAUTERN 4/1GL, Count: 2, Total Cost: $13.16
+Item: PD PPR HABANERO CS, Count: 2, Total Cost: $50.88
+Item: FIGS BLACK         28Z, Count: 2, Total Cost: $33.02
+Item: SALT SEA FINE DD, Count: 2, Total Cost: $43.77
+Item: FSH TUNA STEAK 4Z, Count: 2, Total Cost: $30.00
+Item: PDU MELON HONEY 2C, Count: 2, Total Cost: $15.76
+Item: RED LIGHT KIDNEY   25#, Count: 2, Total Cost: $45.20
+Item: DICER 1/4IN GS     4150-A, Count: 2, Total Cost: $0.00
+Item: PD CILANTRO 1#, Count: 2, Total Cost: $0.00
+Item: PD PPR PASILLA CS, Count: 2, Total Cost: $23.35
+Item: PD ORANGE 88CT, Count: 2, Total Cost: $15.59
+Item: PD ORG SUPER MIX, Count: 2, Total Cost: $18.70
+Item: HEARTS OF PALM SLC 28Z, Count: 2, Total Cost: $9.68
+Item: MOP CTN EXT HVY, Count: 2, Total Cost: $19.84
+Item: FSH SCAL PR 80-120, Count: 2, Total Cost: $97.32
+Item: PDU PPR HABANERO2#, Count: 2, Total Cost: $20.31
+Item: PDU PINEAPPLE 2CT, Count: 2, Total Cost: $11.69
+Item: CRAB DUNGE CLUSTER, Count: 2, Total Cost: $64.88
+Item: SCE SALT/CARAMEL, Count: 2, Total Cost: $2.71
+Item: PD ORG HERB MIX, Count: 2, Total Cost: $0.00
+Item: CHZ GOUDA SLICED, Count: 2, Total Cost: $0.00
+Item: XXCHX PRTY WNG FRZ, Count: 2, Total Cost: $0.00
+Item: TOM PASTE ISABELLA, Count: 2, Total Cost: $0.00
+Item: PD APPLE FUJI72-88, Count: 2, Total Cost: $66.45
+Item: TEA SWETND CONC, Count: 2, Total Cost: $33.89
+Item: THERMOMETER OVEN   3506, Count: 2, Total Cost: $20.50
+Item: PD MANGO LARGE, Count: 2, Total Cost: $18.30
+Item: CHOC/COCOA POWDER, Count: 2, Total Cost: $0.00
+Item: NICOLE SALAD FORK  DZ, Count: 2, Total Cost: $20.80
+Item: NICOLE TEASPOON    DZN, Count: 2, Total Cost: $18.64
+Item: NICOLE BOUIL SPN   1DZ, Count: 2, Total Cost: $20.34
+Item: CRAWFISH 150/200CT, Count: 2, Total Cost: $21.42
+Item: LID SFL 3.25-5Z, Count: 2, Total Cost: $61.71
+Item: BF SAB PSMO 5UP, Count: 2, Total Cost: $191.12
+Item: PD PPR JALAPENO 5#, Count: 2, Total Cost: $14.79
+Item: PD SHALLOT PEELED, Count: 2, Total Cost: $11.48
+Item: STRAINER 14"DBLE M ESH RE, Count: 1, Total Cost: $51.00
+Item: LADLE S/S 2Z 1PC, Count: 1, Total Cost: $3.59
+Item: OS CRAISINS        48Z, Count: 1, Total Cost: $9.93
+Item: OIL SESAME LKK     56Z, Count: 1, Total Cost: $18.76
+Item: APRICOTS TURKISH   32Z, Count: 1, Total Cost: $13.48
+Item: SPC PEPPR BLK CAFE 5LB, Count: 1, Total Cost: $32.40
+Item: SCR PAD MED DUTY   96CC, Count: 1, Total Cost: $6.49
+Item: SPNGE GRN/YEL 74CC, Count: 1, Total Cost: $19.52
+Item: BF GRND 80%        R/W, Count: 1, Total Cost: $33.87
+Item: RED LENTILS, Count: 1, Total Cost: $24.63
+Item: QUINOA RED         2/5#, Count: 1, Total Cost: $22.56
+Item: TOMATO DRIED STRIP 4/5#, Count: 1, Total Cost: $19.11
+Item: SPONGE GRN/YEL, Count: 1, Total Cost: $6.27
+Item: GREEN SCRNG PADS, Count: 1, Total Cost: $5.55
+Item: SYRUP MAPLE 64Z, Count: 1, Total Cost: $25.68
+Item: WIN MANDOLINE SET, Count: 1, Total Cost: $70.84
+Item: WRTS HICKRY SEAS, Count: 1, Total Cost: $12.84
+Item: SCE SRIRACHA       28Z, Count: 1, Total Cost: $53.37
+Item: REG ROLL 7313SP, Count: 1, Total Cost: $21.06
+Item: SCRUBBER S/S 35G, Count: 1, Total Cost: $7.40
+Item: LC 6" FRG BONING   KNIFE, Count: 1, Total Cost: $10.28
+Item: MNDL COOK KNF 8", Count: 1, Total Cost: $16.69
+Item: DAWN-MSHD DGRSR, Count: 1, Total Cost: $23.33
+Item: SALT KOSHER MORTON, Count: 1, Total Cost: $35.22
+Item: FSH COD FLT 16-32, Count: 1, Total Cost: $115.00
+Item: SCRBBR STN/STL84CC, Count: 1, Total Cost: $8.61
+Item: PINE CLEANER, Count: 1, Total Cost: $7.29
+Item: VINEGAR WHITE HENZ 1GL, Count: 1, Total Cost: $28.79
+Item: PEPPER CHILI DRIED 6/5LB, Count: 1, Total Cost: $20.25
+Item: PEPPER CHIPOTLE, Count: 1, Total Cost: $10.86
+Item: PD CARROT BAG 10#, Count: 1, Total Cost: $36.00
+Item: IOU PAYMNT X3148, Count: 1, Total Cost: $-30.23
+Item: FSH FAROE SALM 8Z, Count: 1, Total Cost: $46.25
+Item: WAR IMM BLENDER 10, Count: 1, Total Cost: $249.99
+Item: JARRITOS VP GLASS  12.5Z, Count: 1, Total Cost: $22.39
+Item: FSH SNAPPER 1-2, Count: 1, Total Cost: $51.88
+Item: PD ON GRN ICELESS, Count: 1, Total Cost: $12.89
+Item: PD ORANGE 113CT, Count: 1, Total Cost: $24.47
+Item: PD COCONUT YOUNG, Count: 1, Total Cost: $23.30
+Item: SHRP P&D TO 21-25, Count: 1, Total Cost: $43.90
+Item: MUSTARD GRY POUPON 48Z, Count: 1, Total Cost: $20.62
+Item: FSH SCAL PRO 20-25, Count: 1, Total Cost: $94.17
+Item: GP WHOLE DILL, Count: 1, Total Cost: $8.21
+Item: PD GINGER FRSH 28#, Count: 1, Total Cost: $38.83
+Item: BEAN SMALL RED, Count: 1, Total Cost: $20.92
+Item: PD MICRO CILANTRO, Count: 1, Total Cost: $11.67
+Item: FSH SCAL DRY 8-9, Count: 1, Total Cost: $135.35
+Item: PD SQUASH YLW MED, Count: 1, Total Cost: $14.30
+Item: PD ONION RED 10#, Count: 1, Total Cost: $7.71
+Item: ROCHER 48PC CLB PK, Count: 1, Total Cost: $16.95
+Item: GLOVE NITRILE SM, Count: 1, Total Cost: $5.04
+Item: BROOM JANITOR, Count: 1, Total Cost: $12.23
+Item: SPRAY HEAD LL, Count: 1, Total Cost: $53.40
+Item: NICOLE DINNR KNIFE DZN, Count: 1, Total Cost: $17.02
+Item: IOU PAYMNT X1389, Count: 1, Total Cost: $-149.03
+Item: DEBIT    9634, Count: 1, Total Cost: $200.00
+Item: SQUID T&T CLN 3-5, Count: 1, Total Cost: $12.32
+Item: RF SHRP U/15 GULF, Count: 1, Total Cost: $39.95
+Item: KIK BAG MYLAR, Count: 1, Total Cost: $1.86
+Item: PD DATE MEDJOOL 2, Count: 1, Total Cost: $11.38
+Item: PD BEET 5 LB, Count: 1, Total Cost: $46.62
+Item: PD EGGPLANT 24CT, Count: 1, Total Cost: $18.05
+Item: FSH SQUID RING, Count: 1, Total Cost: $51.37
+Item: CUP SFL 5.5Z, Count: 1, Total Cost: $47.65
+Item: FLOUR SACKS 1DZ, Count: 1, Total Cost: $16.96
+Item: VINEGAR BALSMC 3DM 2/5LTR, Count: 1, Total Cost: $21.19
+Item: DISHER FOOD BL#16, Count: 1, Total Cost: $10.56
+Item: TEA UNSWETND CONC, Count: 1, Total Cost: $12.07
+Item: IOU PAYMNT 6984, Count: 1, Total Cost: $-294.93
+Item: PD LEMON CH 140, Count: 1, Total Cost: $34.08
+Item: FSH SALM CHUM 6Z, Count: 1, Total Cost: $58.90
+Item: MOP MAXICLEAN GRN, Count: 1, Total Cost: $8.74
+Item: SHRP P&D TO 26-30, Count: 1, Total Cost: $39.90
+Item: BLEACH AROCEP GERM 128Z, Count: 1, Total Cost: $19.99
+Item: SPC THYME          2LB, Count: 1, Total Cost: $18.90
+Item: VINEGAR CIDER 4%   1GL, Count: 1, Total Cost: $6.96

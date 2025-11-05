@@ -1,0 +1,31 @@
+def create_email_template(recipient_email):
+    subject = "Important: IAED Online Account Password Reset and Next Steps"
+    
+    body = f"""
+    Dear IAED Member,
+
+    We hope this email finds you well. We're writing to inform you about important updates regarding your IAED online account.
+
+    Your account on the new IAED website (https://www.iaedonline.com/) will be receiving a password reset notification. Once you've reset your password, please complete these two important steps:
+
+    1. Complete Your Profile:
+       - Visit: https://www.iaedonline.com/membership-account/your-profile/
+       - Update all your information to ensure your listing is current
+
+    2. Submit Your Certification Documents:
+       - Submit your Continuing Education documents to maintain IAED Certification
+       - This will ensure you're listed on our Members and Find An Equine Dentist page: https://www.iaedonline.com/all-members/
+       - Review certification guidelines at: https://www.iaedonline.com/certification/
+
+    Important Notes:
+    - If your membership shows as expired, please purchase an annual or monthly subscription at: https://www.iaedonline.com/membership-account/membership-levels/
+    - If you believe you have an active subscription but it's not showing, please email: ucid@andrewsama.com
+
+    Need Help?
+    For any assistance with profile setup or membership issues, please contact: ucid@andrewsama.com
+
+    Thank you for your continued membership with IAED.
+
+    Best regards,
+    IAED Team
+    """

@@ -1,41 +1,38 @@
-# CSV Total Extractor and Visualizer
+# 8020-db — v0.01 (official)
 
-## Overview
+This README documents the **v0.01** release workflow for the candidate plugin and its data pipeline.
 
-This project provides a Python script that processes a collection of CSV files to extract financial totals and corresponding dates, then visualizes this data over time. This is particularly useful for analyzing spending patterns from multiple receipt files stored in CSV format.
+This repository contains the **PIA Candidates (MU)** WordPress plugin plus supporting scripts for generating candidate JSON data.
 
-## Features
+## What’s included
 
-- Extract totals from specified lines near the end of each CSV file.
-- Extract date information from a specific line in each CSV file.
-- Accumulate totals by date.
-- Generate a plot to visualize total spending over time.
+- **MU plugin**: `pia-candidates-mu/`
+  - WordPress custom post type: `pia_candidate`
+  - Directory and profile shortcodes
+  - Imports from JSON (local file, URL, or inline)
+- **MU loader**: `pia-candidates-mu-loader.php`
+  - Required because WordPress only auto-loads MU plugins located directly in `wp-content/mu-plugins/`
+- **Candidate data tooling**: `candidates-data/`
+  - Python scripts to fetch/normalize/merge candidate data into the plugin’s import schema
 
-## Requirements
+## Quick start (WordPress / multisite)
 
-- Python 3.6 or higher
-- Matplotlib (for plotting graphs)
+Copy these into your WordPress install:
 
-## Installation
+- `pia-candidates-mu/` → `wp-content/mu-plugins/pia-candidates-mu/`
+- `pia-candidates-mu-loader.php` → `wp-content/mu-plugins/pia-candidates-mu-loader.php`
+- Dataset (Option A default) → `wp-content/mu-plugins/pia-candidates-mu/data/texas_candidates_2026-0.json`
 
-Clone the repository to your local machine:
+Then, in WP Admin (per site):
 
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+- **Settings → Permalinks** → **Save Changes**
+- **Settings → PIA Candidates** → **Run Import**
 
+Shortcode example:
 
-pip install matplotlib
 ```
-## Usage:
-
-Place all your CSV files in a directory (e.g., receipts/).
-Modify the script to point to your directory of CSV files by setting the directory_path variable.
-Run the script:
-
-```bash
-
-python calculate_totals.py
+[pia_candidate_directory per_page="30"]
 ```
-## Notion: 
-https://www.notion.so/54bcd0f1c496446481a085de6aeec846?v=5f23a76b77014913bd2132fe6b6c2965&pvs=4
+
+For full plugin documentation, see `pia-candidates-mu/README.md`.
+For data generation scripts, see `candidates-data/README.md`.
